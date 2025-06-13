@@ -1,0 +1,10 @@
+friends=["Apple","raj",False,"dear",1,2,3]
+print(friends[1:7])
+friends[1]="kumar"
+print(friends[1:7])
+l1=[1,23,34,1,2,6,5,2,2,2]
+l1.sort()
+l1.reverse()
+l1.insert(2,45)
+print(l1)
+print(l1.count(2))
